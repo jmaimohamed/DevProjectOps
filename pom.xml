@@ -11,8 +11,8 @@
     <groupId>tn.esprit</groupId>
     <artifactId>tp-foyer-Integration</artifactId>
     <version>5.2.1</version>
-    <name>tp-foyer-Integration</name>
-    <description>tp-foyer-Integration</description>
+    <name>JETSETGO</name>
+    <description>JETSETGO - Comprehensive Travel Management Solution: An all-in-one mobile application for trip planning, financial management, time management, hotel reservations, and ticket bookings. Streamline your travel experience with secure data storage and real-time updates.</description>
     <properties>
         <java.version>17</java.version>
     </properties>
